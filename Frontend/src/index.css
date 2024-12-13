@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html,body{
+  background-color: #18181b;
+  color: white;
+  background: url('https://i.pinimg.com/736x/c4/82/14/c4821433f0bb5ac2650e42a9ed06a382.jpg');
+  background-position: center;
+  background-repeat: repeat;
+  background-size: contain;
+}
+
